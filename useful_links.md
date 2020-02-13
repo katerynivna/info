@@ -7,7 +7,7 @@
 - [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 - [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
 - [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/)
-
-- []()
-- []()
-- []()
+### Harvard
+- [Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [Data Science: Machine Learning](https://online-learning.harvard.edu/course/data-science-machine-learning?delta=0)
+- [Data Science: R Basics](https://online-learning.harvard.edu/course/data-science-r-basics?delta=0)
